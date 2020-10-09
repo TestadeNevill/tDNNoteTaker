@@ -3,7 +3,7 @@
 
 ## Description
 
-Using Express I've created a program that can create delete notes.
+Using Express I've created a program that can create and delete notes.
 
 ## Table of Contents 
 
