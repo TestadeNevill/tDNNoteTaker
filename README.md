@@ -1,4 +1,7 @@
 # tDN Note Taker
+
+![tdnnotetakerscreenshot](https://user-images.githubusercontent.com/64296826/104965536-e66bbf00-59ac-11eb-83e3-547ce6e08047.PNG)
+![tdnnotetakerscreenshot2](https://user-images.githubusercontent.com/64296826/104965543-e966af80-59ac-11eb-9b47-1bf964367096.PNG)
 Live Demo: https://tdnnotetaker.herokuapp.com/
 
 ## Description
